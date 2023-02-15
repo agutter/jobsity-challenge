@@ -1,0 +1,18 @@
+{
+    "trips": [
+        {
+            "region": "Panama",
+            "origin_coord": "POINT (45.578456 96.365228)",
+            "destination_coord": "POINT (52.587474 79.684535)",
+            "datetime": "2023-02-11 14:05:21",
+            "datasource": "ferrari"
+        },
+        {
+            "region": "Turkey",
+            "origin_coord": "POINT (94.578456 14.365228)",
+            "destination_coord": "POINT (32.587474 14.684535)",
+            "datetime": "2023-02-11 16:05:21",
+            "datasource": "eccleston"
+        }
+    ]
+}
